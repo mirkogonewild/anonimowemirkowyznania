@@ -1,4 +1,4 @@
-# anonimowemirkowyznania
-[demo](http://mirkowyznania.eu)
+# mirkogonewild
+[demo](https://mirkogonewild.pl)
 
-[#anonimowemirkowyznania@wykop.pl](http://wykop.pl/tag/anonimowemirkowyznania)
+[#mirkogonewild@wykop.pl](http://www.wykop.pl/tag/mirkogonewild)
