@@ -1,7 +1,7 @@
 {
-  "name": "anonimowemirkowyznania",
-  "version": "0.1.2",
-  "description": "AnonimoweMirkoWyznania #anonimowemirkowyznania",
+  "name": "mirkogonewild",
+  "version": "0.0.1",
+  "description": "MirkoGoneWild #mirkogonewild",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,13 @@
     "md5": "^2.1.0",
     "mongoose": "^4.4.6",
     "wykop-es6": "^0.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirkogonewild/mirkogonewild"
+  },
+  "bugs": {
+    "url": "https://github.com/mirkogonewild/mirkogonewild/issues"
   }
 }
